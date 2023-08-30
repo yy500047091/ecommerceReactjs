@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box ;
+    }
+
+body{
+    background-color: white;
+}
+
+.rowClass{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow:12px 12px 22px  ;
+}
+
+#Loginimg{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+#button{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color:black ;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+#button:hover{
+    background: white;
+    border: 1px solid;
+    color: black;
+}

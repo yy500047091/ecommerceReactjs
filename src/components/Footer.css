@@ -1,0 +1,18 @@
+.container-fluid{
+    padding: 5rem o;
+    background-color: #182334;
+    color:white;
+}
+
+.container-fluid h3{
+    color:white;
+}
+
+.container-fluid li{
+    list-style: none;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    color: aliceblue;
+    cursor: pointer;
+    margin: 1rem 0;
+}
